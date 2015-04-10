@@ -1,0 +1,1 @@
+A library to read and write midifiles.
